@@ -2,9 +2,8 @@
 
 <br/>
 
-- 🔭 I’m currently working on React JS Library and Next JS framework.
-- 🌱 I’m currently learning MERN full stack using TypeScript.
-- 👯 I’m looking to collaborate on any javascript projects.
+- 🔭 I’m currently working on Javascript/TypeScript; create web applications using MERN Stack.
+- 👯 I’m looking to collaborate on any javascript/Typescript projects.
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/avee-ad/)
