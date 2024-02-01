@@ -13,7 +13,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-- 📫 How to reach me: [Link](https://kumaradhikari.com)
+<!-- - 📫 How to reach me: [Link](https://kumaradhikari.com) -->
 
 <!--
 **AveeAd/AveeAd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
