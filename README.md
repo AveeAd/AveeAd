@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on Javascript/TypeScript; create web applications using MERN Stack.
+- 🔭 I’m currently working on Javascript/TypeScript; create web and mobile applications.
 - 👯 I’m looking to collaborate on any javascript/Typescript projects.
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
@@ -13,7 +13,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-<!-- 📫 How to reach me: [Github Page](https://aveead.github.io/avee) -->
+- 📫 How to reach me: [Link](https://kumaradhikari.com)
 
 <!--
 **AveeAd/AveeAd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
