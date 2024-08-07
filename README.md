@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on Javascript/TypeScript; create web and mobile applications.
 - 👯 I’m looking to collaborate on any javascript/Typescript projects.
+- Recently started learning go and it's fun to work with, can collaborate in go too...
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me:  Don't reach me!!!
@@ -13,9 +14,6 @@
 🤘🤘🤘🤘🤘🤘🤘🤘🤘
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-
-
-<!-- - 📫 How to reach me: [Link](https://kumaradhikari.com) -->
 
 <!--
 **AveeAd/AveeAd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
