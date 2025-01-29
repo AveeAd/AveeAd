@@ -6,7 +6,7 @@
 - 👯 I can collaborate on any javascript/Typescript/GO projects.
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me:  [email](kumarad9@outlook.com)
+- 📫 How to reach me:  [email](mailto:kumarad9@outlook.com)
 
   <a href="https://app.daily.dev/aveead"><img src="https://api.daily.dev/devcards/v2/vP-MuqN2Z.png?type=wide&r=z9r" width="652" alt="Kumar Adhikari's Dev Card"/></a>
 
