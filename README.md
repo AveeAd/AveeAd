@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/74303494?v=4" width="120" height="120" style="border-radius: 50%; border: 3px solid #6e5494;" alt="Kumar Adhikari's Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/59833424" width="120" height="120" style="border-radius: 50%; border: 3px solid #6e5494;" alt="Kumar Adhikari's Avatar"/>
   <h1>👋 Hi there! I'm Kumar Adhikari (AveeAd)</h1>
   <p><h3>Full-Stack JavaScript/TypeScript Developer 🚀</h3></p>
 </div>
