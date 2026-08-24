@@ -11,7 +11,7 @@
 I specialize in creating modern, responsive, and scalable web and mobile applications. My passion lies in harnessing the power of the JavaScript ecosystem to build seamless digital experiences.
 
 * 📍 Based in **Kathmandu, Nepal**.
-* 🏢 Currently building solutions at **Young Minds Creation Pvt. Ltd.**
+* 🏢 Co Founder at **The Backyard Project** and **Infinary Geeks**
 * 🎯 Focused on **Full-Stack Development** with a strong emphasis on performance, clean architecture, and TypeScript-first methodologies.
 * 🤝 Open to **collaboration** on innovative projects involving my core stack.
 
